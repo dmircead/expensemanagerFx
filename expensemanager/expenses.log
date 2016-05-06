@@ -1,0 +1,10 @@
+May 05, 2016 7:08:37 PM expensemanager.gui.MainExpenseFx configure
+INFO: method is finished
+May 05, 2016 7:08:37 PM expensemanager.gui.MainExpenseFx start
+INFO: ExpenseManager constructed
+May 05, 2016 7:08:37 PM expensemanager.Persistence loadExpenses
+INFO: Expenses list loaded
+May 05, 2016 7:08:39 PM expensemanager.gui.MainExpenseFx start
+INFO: Main Gui constructed
+May 05, 2016 7:09:07 PM expensemanager.Persistence saveExpenses
+INFO: Expenses list saved
